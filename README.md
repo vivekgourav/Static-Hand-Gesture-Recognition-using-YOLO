@@ -102,7 +102,7 @@ or Use this command for YOLO_TINY model.
 
 * **VIVEK GOURAV S** - *Initial work* - [DaRkCoN](https://github.com/vivekgourav)
 
-See also the list of [contributors](https://github.com/vivekgourav/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/vivekgourav/Static-Hand-Gesture-Recognition-using-YOLO/blob/master/contributors/team.txt) who participated in this project.
 
 ## License
 
