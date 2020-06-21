@@ -116,7 +116,7 @@ We would like to express our appreciation to the HAN Automotive Research group a
 
   [Darknet](https://github.com/AlexeyAB/darknet)  
   [HANcoder/Training Material/SmartCar](http://openmbd.com/wiki/HANcoder/Training_Material/SmartCar)    
-  [Custom Object Detection](https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e)   [YOLOV3 Beginner Guide](https://towardsdatascience.com/dive-really-deep-into-yolo-v3-a-beginners-guide-9e3d2666280e)    
+  [Custom Object Detection](https://blog.francium.tech/custom-object-training-and-detection-with-yolov3-darknet-and-opencv-41542f2ff44e)     [YOLOV3 Beginner Guide](https://towardsdatascience.com/dive-really-deep-into-yolo-v3-a-beginners-guide-9e3d2666280e)    
   [Understanding YOLO](https://hackernoon.com/understanding-yolo-f5a74bbc7967)    
   [YOLO Algorithm](https://appsilon.com/object-detection-yolo-algorithm/)    
   [IoU For Object Detection](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)    
