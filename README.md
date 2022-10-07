@@ -11,7 +11,7 @@ Darknet is an open source Neural Network framework which is written in 'C' Langu
 <p>
 YOLO model is a one-shot learner, meaning each image only passes through the network once to make a prediction, which allows the architecture to be very performant, it can process up to 60 frames per second in predicting against video feeds and set of images. YOLO divides an image into subcomponents and conducts convolutions on each of those subcomponents before pooling back to create a prediction.</p>  
 <p>
-The image or video is divided into S * S grid of cells. For gesture presented on the image, each grid of cell predicts a bounding box with the class probability. The predicted bounding boxes has 5 components (x,y,w,h,confidence). In this (x,y) coordinates represents the center of the bounding box. The (w,h) represents the height and width of the cell grids combined and confidence score which reflects the presence or absence of an object of any class. </p>  
+The image or video is divided into S * S grid of cells. For gesture presented on the image, each grid of cell predicts a bounding box with the class probability. The predicted bounding boxes has 5 components (x,y,w,h,confidence). In this (x,y) coordinates represents the center of the bounding box. The (w,h) represents the height and width of the cell grids combined and confidence score which reflects the presence or absence of an object of any class. </p>  ![My Image](images/yoloworking.jpg)
 <img src="images/yoloworking.JPG">  
 <p>
   To measure the accuracy of an object detector and to determine the exact position of the object, a simple approach called Intersection over Union (IoU) is used. To evaluate the accuracy of the detector, the ground truth bounding box and predicted bounding box is needed.
